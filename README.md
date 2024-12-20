@@ -1,21 +1,6 @@
-# food_app_ui
+Setup notes:
+![image](https://github.com/user-attachments/assets/6dbc2cae-97b3-4f46-b578-8f716105a860)
 
-Foodie
-
-## Screenshot
-
-
-https://github.com/user-attachments/assets/73608154-8a28-4faa-a036-2f671fb8503b
-
-Design credit: https://www.figma.com/community/file/1362393407429980800
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1d3d98bb-429d-4efd-9439-743155bbc4bc](https://github.com/user-attachments/assets/79a16421-f1c1-476b-b036-cca1b182f344)
+![78bd68fa-3b8b-4ada-9c4a-afae3a231dc2](https://github.com/user-attachments/assets/0e63f15c-a782-4d2b-807f-7bfd1104f40f)
+![de6a1bad-65b4-4fea-b4f6-d8d14e122619](https://github.com/user-attachments/assets/93d36204-51c1-4968-9725-6700c2c6a3d3)
